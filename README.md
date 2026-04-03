@@ -1,3 +1,16 @@
 # Dl-Disease-Classification
-Let's learn with this project
-ok this is testing let's see what happen here 
+How to run?
+STEPS:
+Clone the repository
+
+https://github.com/amrritt18/Dl-Disease-Classification
+STEP 01- Create a conda environment after opening the repository
+conda create -n cnncls python=3.8 -y
+conda activate cnncls
+STEP 02- install the requirements
+pip install -r requirements.txt
+# Finally run the following command
+python app.py
+Now,
+
+open up you local host and port
