@@ -1,0 +1,21 @@
+# Ignore ML artifacts
+artifacts/
+
+# Ignore datasets
+*.zip
+*.tar
+*.gz
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs
+logs/
+
+# Virtual environments
+venv/
+dl_project/
