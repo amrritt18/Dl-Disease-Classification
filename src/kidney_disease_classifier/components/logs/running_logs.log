@@ -1,0 +1,2 @@
+[2026-04-03 19:18:25,157: ERROR: manager: No such comm target registered: jupyter.widget.control]
+[2026-04-03 19:18:25,164: WARNING: base_comm: No such comm: c99510d4-e494-4640-a56d-3d62ae0277b3]

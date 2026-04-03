@@ -10,5 +10,8 @@ src/kidney_disease_classifier/config/__init__.py
 src/kidney_disease_classifier/config/configuration.py
 src/kidney_disease_classifier/constants/__init__.py
 src/kidney_disease_classifier/entity/__init__.py
+src/kidney_disease_classifier/entity/config_entity.py
 src/kidney_disease_classifier/pipeline/__init__.py
+src/kidney_disease_classifier/pipeline/stage_01_data_ingestion.py
 src/kidney_disease_classifier/utils/__init__.py
+src/kidney_disease_classifier/utils/common.py
