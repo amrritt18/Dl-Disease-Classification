@@ -1,0 +1,14 @@
+# Ignore artifacts folder
+artifacts/
+
+# Ignore ML models
+*.h5
+*.pt
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+
+# logs
+logs/ 
